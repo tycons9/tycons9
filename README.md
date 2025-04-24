@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 ### 👋 Hi, I'm Eyob Asefa! <br><br>### 🚀 About Me <br>
-I'm a passionate **Full Stack Developer** and **tech enthusiast** from Ethiopia 🇪🇹, dedicated to building modern, scalable, and efficient web applications. I'm interested in **web development**, **digital learning platforms**, and **interactive web solutions**. I’m always eager to learn and grow by exploring new technologies.
+I'm a passionate **Full Stack Developer** and **tech enthusiast** from Ethiopia 🇪🇹, dedicated to building modern, scalable, and efficient web applications. I'm interested in **web development**, **digital learning platforms*, and **interactive web solutions**. I’m always eager to learn and grow by exploring new technologies.
 
 ---
 
