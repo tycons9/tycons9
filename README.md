@@ -1,93 +1,119 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=eng-natole&label=Profile%20views&color=0e75b6&style=flat" alt="eng-natole" />
+Here’s a **professionally rewritten and visually enhanced** version of your README that makes you stand out while preserving everything you care about. It also adds **unique flair**, consistent formatting, and improved structure for the most beautiful presentation possible:
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eng-natole&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-# 💫 About Me:
-### 👋 Hi, I'm Eyob Asefa! <br><br>### 🚀 About Me <br>
-I'm a passionate **Full Stack Developer** and **tech enthusiast** from Ethiopia 🇪🇹, dedicated to building modern, scalable, and efficient web applications. I'm interested in **web development**, **digital learning platforms*, and **interactive web solutions**. I’m always eager to learn and grow by exploring new technologies.
+<h1 align="center">👋 Hi, I'm Eyob Asefa!</h1>
+<p align="center">
+  🚀 Full Stack Developer | 🌐 Web Enthusiast | 🇪🇹 Ethiopian Tech Lover
+</p>
 
 ---
 
-### 👀 Interests:
-- Web development (HTML, CSS, JavaScript, React, Node.js)
-- Digital learning platforms & ed-tech solutions
-- Building interactive and engaging web applications
-- Teaching and mentoring aspiring developers
+## ✨ About Me
+
+I'm a passionate **Full Stack Developer** from **Ethiopia** 🇪🇹 who thrives on turning ideas into impactful digital experiences. With a strong foundation in **HTML, CSS, JavaScript, React, Node.js**, and more, I enjoy crafting sleek, user-focused applications that solve real-world problems.
+
+🔍 I'm especially interested in:
+
+* **EdTech platforms** and **digital learning solutions**
+* **Modern, interactive UIs** that drive engagement
+* **Mentorship and teaching** through open-source collaboration
+
+I'm always hungry to learn new tools and frameworks, and I love collaborating with like-minded developers to **build, grow, and innovate**.
 
 ---
 
-### 🌱 Currently Learning:
-- **Backend development** with **Node.js & Express**
-- **Database management** (SQL, MongoDB)
-- **Building web servers & APIs**
+## 🌱 Currently Exploring
+
+* Building **RESTful APIs** with Node.js & Express
+* **Authentication & Authorization** in full stack apps
+* **SQL & NoSQL** databases: MySQL, MongoDB
+* **Cloud deployment** (Vercel, Netlify, Railway)
 
 ---
 
-### 💞️ Looking to Collaborate On:
-- **Educational platforms** for students
-- **Quiz & exam preparation applications**
-- **Web development tutorials & resources**
-- **Open-source projects that make learning accessible**
+## 🤝 Let's Collaborate On
+
+* 📚 **Online learning platforms**
+* 🧠 **Quiz & Exam preparation tools**
+* 🌐 **Open-source web projects**
+* 🎓 **Resources for beginner developers**
 
 ---
 
-### 📫 How to Reach Me:
-- **Email:** eyobasefa623@gmail.com
-- **LinkedIn:** [Eyob Asefa](https://www.linkedin.com/in/eyobasefa/)
-- **GitHub:** [tycons9](https://github.com/tycons9)
+## 📬 Reach Out To Me
+
+* 📧 **Email:** [eyobasefa623@gmail.com](mailto:eyobasefa623@gmail.com)
+* 💼 **LinkedIn:** [Eyob Asefa](https://www.linkedin.com/in/eyobasefa/)
+* 🖥️ **GitHub:** [tycons9](https://github.com/tycons9)
 
 ---
 
-### 😄 Pronouns:
-He/Him
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/eyobasefa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eyobasefa623@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### ⚡ Fun Fact:
-I believe **technology + education = unlimited possibilities**! Also, I love **music**, **fiction writing**, and **learning new things every day**. 🎶
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eyobasefa) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyobasefa623@gmail.com)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tycons9&show_icons=true&theme=dark&count_private=true" alt="Eyob's GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tycons9&layout=compact&theme=dark" alt="Top Languages" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=tycons9&theme=dark" alt="GitHub Streak" />
+</p>
 
 ---
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%23F7DF1E.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+## 🔥 Fun Facts
+
+* 🎶 I code better with music!
+* ✍️ I write fiction in my spare time
+* 💡 I believe **technology + education = limitless potential**
 
 ---
 
-# 📊 GitHub Stats:
+## 🧠 Unique Traits
 
-<div align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tycons9&show_icons=true&hide_title=true&count_private=true&theme=dark&hide_border=false" alt="GitHub Stats"><br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tycons9&theme=dark&hide_border=false&layout=compact" alt="Top Languages"><br/>
-
-  <!-- Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tycons9&theme=dark&hide_border=false" alt="Streak Stats"><br/>
-</div>
+* 💼 Mix of creativity + technical depth
+* 🎓 Self-taught and academic fusion learner
+* 🧑‍🏫 Passionate about teaching what I learn
+* 🌍 Focused on using tech for social impact
 
 ---
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=tycons9&icon=9&color=0" alt="Visitor Count" />
+</p>
+
+---
+
+<sub align="center">🚀 Crafted with ❤️ by Eyob Asefa — Always Building, Always Learning.</sub>
 
 
-
-[![](https://visitcount.itsvg.in/api?id=tycons9&icon=9&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
