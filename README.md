@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Web+Enthusiast;Ethiopian+Tech+Lover;Always+learning+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Eyob+Asefa" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
@@ -54,7 +54,8 @@ I'm always hungry to learn new tools and frameworks, and I love collaborating wi
   <a href="https://github.com/tycons9?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-<details> 
+<details open> 
+
   <summary><h2>💻 Tech Stack</h2></summary>
 
   <h3>👨‍💻 Programming Languages</h3>
@@ -91,7 +92,8 @@ I'm always hungry to learn new tools and frameworks, and I love collaborating wi
   </p>
 </details>
 
-<details> 
+<details open> 
+
   <summary><h2>📊 GitHub Stats</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -111,7 +113,8 @@ I'm always hungry to learn new tools and frameworks, and I love collaborating wi
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="tycons9's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tycons9&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
-<details> 
+<details open> 
+
   <summary><h2>🌱 Currently Learning</h2></summary>
   
   - Building **RESTful APIs** with Node.js & Express
@@ -129,7 +132,8 @@ I'm always hungry to learn new tools and frameworks, and I love collaborating wi
   - 🎓 **Resources for beginner developers**
 </details>
 
-<details> 
+<details open> 
+
   <summary><h2>📬 Connect With Me</h2></summary>
   
   <p align="left">
@@ -139,7 +143,8 @@ I'm always hungry to learn new tools and frameworks, and I love collaborating wi
   </p>
 </details>
 
-<details> 
+<details open> 
+
   <summary><h2>🔥 Fun Facts</h2></summary>
   
   - 🎶 I code better with music!
