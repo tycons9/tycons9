@@ -47,8 +47,8 @@ I'm always hungry to learn new tools and frameworks, and I love collaborating wi
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/tycons9/project1"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tycons9&repo=project1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1"></a>
-    <a href="https://github.com/tycons9/project2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tycons9&repo=project2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 2"></a>
+    <a href="https://github.com/tycons9/Mentor-ship"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tycons9&repo=project1&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1"></a>
+    <a href="https://github.com/tycons9/myContacts-backend"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=tycons9&repo=project2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 2"></a>
   </p>
 
   <a href="https://github.com/tycons9?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
